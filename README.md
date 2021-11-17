@@ -7,4 +7,4 @@ This is my st rice.
 
 ## Installation
 
-just run the included `build.sh` as a normal user. It'll install dwm to `/usr/local/bin/st`
+just run the included `build.sh` as a normal user. It'll install st to `/usr/local/bin/st`
