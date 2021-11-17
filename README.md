@@ -1,4 +1,4 @@
-# my st the suckless terminal wm rice
+# my suckless terminal rice
 
 This is my st rice. 
 
