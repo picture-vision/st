@@ -6,7 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation mono:size=12:antialias=true:autohint=true";
-static char *font = "Caskaydia Cove Nerd Font Complete Mono:size=12:antialias=true:autohint=true";
+static char *font = "Inconsolata:size=12:antialias=true:autohint=true";
+//static char *font = "Caskaydia Cove Nerd Font Complete Mono:size=12:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
