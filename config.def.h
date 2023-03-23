@@ -6,9 +6,9 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation mono:size=12:antialias=true:autohint=true";
-static char *font = "Inconsolata:size=10:antialias=true:autohint=true";
+static char *font = "Inconsolata:size=14:antialias=true:autohint=true";
 //static char *font = "Caskaydia Cove Nerd Font Complete Mono:size=12:antialias=true:autohint=true";
-static int borderpx = 2;
+static int borderpx = 8;
 
 /*
  * What program is execed by st depends of these precedence rules:
