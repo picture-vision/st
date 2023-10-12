@@ -6,8 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 //static char *font = "Liberation mono:size=12:antialias=true:autohint=true";
-static char *font = "Inconsolata:size=11:antialias=true:autohint=true";
-//static char *font = "Caskaydia Cove Nerd Font Complete Mono:size=12:antialias=true:autohint=true";
+// static char *font = "Inconsolata:size=12:antialias=true:autohint=true";
+static char *font = "CaskaydiaCove Nerd Font:size=12:antialias=true:autohint=true";
 static int borderpx = 8;
 
 /*
@@ -96,7 +96,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.98;
+float alpha = 0.92;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
