@@ -3,3 +3,4 @@ st
 *.o
 *.orig
 *.rej
+patches_old
