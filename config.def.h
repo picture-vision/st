@@ -102,8 +102,8 @@ float alpha = 0.92;
 static const char *colorname[] = {
 	/* 8 normal colors */
 	"#3b4252", /* black   */
-	"#bf616a", /* red     */
-	"#a3be8c", /* green   */
+	"#f38ba8", /* red     */
+	"#a6e3a1", /* green   */
 	"#ebcb8b", /* yellow  */
 	"#81a1c1", /* blue    */
 	"#b48ead", /* magenta */
@@ -112,8 +112,8 @@ static const char *colorname[] = {
 
 	/* 8 bright colors */
 	"#4c566a", /* black   */
-	"#bf616a", /* red     */
-	"#a3be8c", /* green   */
+	"#f38ba8", /* red     */
+	"#a6e3a1", /* green   */
 	"#ebcb8b", /* yellow  */
 	"#81a1c1", /* blue    */
 	"#b48ead", /* magenta */
@@ -123,8 +123,8 @@ static const char *colorname[] = {
 	[255] = 0,
 
 	/* more colors can be added after 255 to use with DefaultXX */
-	"#2e3440", /* background */
-	"#d8dee9", /* foreground */
+	"#1e1e2e", /* background */
+	"#cdd6f4", /* foreground */
 };
 
 
