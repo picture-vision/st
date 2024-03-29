@@ -7,7 +7,7 @@
  */
 //static char *font = "Liberation mono:size=12:antialias=true:autohint=true";
 // static char *font = "Inconsolata:size=12:antialias=true:autohint=true";
-static char *font = "CaskaydiaCove Nerd Font:size=12:antialias=true:autohint=true";
+static char *font = "CaskaydiaCove Nerd Font:size=13:antialias=true:autohint=true";
 static int borderpx = 8;
 
 /*
